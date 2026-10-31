@@ -1,0 +1,68 @@
+Review of the final crawl snapshot supplied on October 30, 2026
+
+Snapshot and identity
+---------------------
+The selected crawl started with metadata prepared at 2026-10-30 04:00:07 UTC.
+Its saved frontier has 32,908 discovered entries, 32,908 terminal entries,
+zero pending entries, and 461 entries marked unavailable. Terminal frontier
+entries are not all successful downloads. The accepted HTML corpus contains
+29,914 requested URLs; only fragments are discarded for URL identity.
+The final three URL failure budgets exhausted in the supplied Worker log at
+about 15:50 PDT on October 30. Both SQLite snapshots passed quick_check.
+
+Report and coverage
+--------------------
+The report in this package is regenerated from this snapshot. The root report
+in the original upload belonged to an older run with 90,985 accepted pages;
+that older report is not used here. The snapshot covers all four required
+families: ics.uci.edu 29,872; cs.uci.edu 13; informatics.uci.edu 19;
+stat.uci.edu 10. There are 93 accepted-page hostnames below ics.uci.edu,
+excluding the root hostname itself. Similar text is not used to merge URLs.
+All stored page frequency totals match their word_count. No accepted hostname
+is outside the four allowed roots and their dot-separated subdomains.
+
+Content quality limitations to disclose
+---------------------------------------
+The largest accepted record is https://ics.uci.edu/~eppstein/pubs/pubs.ff,
+with 49,902 words. Its recorded Content-Type is missing. Its saved parsed text
+begins with backslash directives and identifies an HTML publications template
+to be filtered into publication listings. It should not be confidently
+described as a clean rendered publication page. The next-longest accepted
+record, https://ics.uci.edu/~eppstein/pubs/all.html, has an explicit text/html
+Content-Type and 36,522 words. The report preserves the observed maximum and
+does not silently relabel or remove the template record. Inspect and explain
+this limitation when presenting the longest-page answer. Raw response bytes
+were not archived in the supplied statistics database.
+
+12,067 accepted URLs under /~eppstein/pix/ have 14 to 156 words, averaging about
+33.3 words. This is a substantial low-text gallery section: existing filtering
+did not prevent all low-information families. No post-hoc URL merging or
+removal was performed to conceal it. The frequent word 'married' is traceable
+to 795 genealogy pages; its frequency is not evidence of arbitrary parser
+output. Stop words are exactly the supplied stopwords.txt; definitions differ
+between English lists, and this list does not contain 'can' or 'one'.
+
+Behavior and optional features
+------------------------------
+The selected configuration used one worker, a 0.5-second politeness minimum,
+and SITEMAPS=false. Shared scheduling and multithreaded code exist, but this
+snapshot does not demonstrate a multithreaded or sitemap-enabled deployment.
+Robots checking and handwritten exact/near content-similarity code are present.
+Offline tests are implementation evidence, not proof of complete Web coverage
+or a guarantee of extra-credit eligibility. The review made no live requests.
+
+Source and Git
+---------------
+The supplied .git repository is retained. Its current HEAD is the upstream
+starter commit d670ef9; the review did not find student development commits
+in the current branch history. Keeping .git alone does not establish regular
+use of Git for these modifications. No development history was manufactured.
+SOURCE_NOTES.md identifies the starter, libraries and Codex assistance.
+
+Packaging changes
+------------------
+The packager now excludes old test-backup/crawl-backup/backup folders in
+addition to databases, environments, logs and other runs. Current offline
+regression fixtures were added for the already-applied VM, media and DNS
+fixes. The original upload and raw corpus records remain unchanged. The
+submitted report retains all 29,914 accepted records and their frequencies.

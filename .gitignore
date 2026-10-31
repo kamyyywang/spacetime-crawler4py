@@ -108,3 +108,12 @@ venv.bak/
 
 *.full.py
 *.shelve
+# Local crawl state and source backups
+.venv/
+Logs/
+runs/
+source-backups/
+*.sqlite3*
+frontier.shelve*
+.crawler-process.lock
+__pycache__/

@@ -1,0 +1,179 @@
+CRAWL REPORT
+
+1. Unique successfully processed HTML URLs
+29914
+
+2. Longest page
+https://ics.uci.edu/~eppstein/pubs/pubs.ff
+Word count: 49902
+
+3. Most common words, excluding stop words
+ics, 38379
+married, 29671
+can, 25299
+information, 23162
+research, 22744
+data, 22484
+uci, 22306
+computer, 20214
+one, 20133
+ramesh, 19972
+events, 18117
+next, 18106
+time, 16998
+technical, 16241
+jan, 15903
+dec, 15516
+mar, 15501
+d, 15453
+ny, 15279
+students, 15207
+size, 15167
+learning, 14964
+details, 14896
+jun, 14886
+search, 14753
+oct, 14315
+image, 14234
+software, 14034
+sep, 14024
+feb, 14023
+apr, 13895
+nov, 13833
+current, 13811
+aug, 13537
+jain, 13532
+jul, 13502
+using, 13191
+computing, 13073
+systems, 12912
+new, 12843
+science, 12631
+edu, 12599
+original, 12520
+m, 12450
+use, 12236
+prev, 12209
+project, 12197
+university, 12058
+c, 11940
+taken, 11892
+
+4. Subdomains under ics.uci.edu
+Number of subdomains: 93
+HTTP and HTTPS page counts are combined by hostname.
+HTTPS is used below as a display prefix.
+https://accessibility.ics.uci.edu, 6
+https://acoi.ics.uci.edu, 114
+https://archive-beta.ics.uci.edu, 10
+https://archive.ics.uci.edu, 432
+https://asterix.ics.uci.edu, 15
+https://cert.ics.uci.edu, 32
+https://checkin.ics.uci.edu, 5
+https://chenli.ics.uci.edu, 14
+https://cloudberry.ics.uci.edu, 7
+https://cml.ics.uci.edu, 386
+https://code.ics.uci.edu, 16
+https://computableplant.ics.uci.edu, 87
+https://containers.ics.uci.edu, 1
+https://courselisting.ics.uci.edu, 4
+https://cradl.ics.uci.edu, 25
+https://create.ics.uci.edu, 8
+https://cs.ics.uci.edu, 18
+https://dale-cooper-v0.ics.uci.edu, 223
+https://degreeaudit.ics.uci.edu, 2
+https://dgillen.ics.uci.edu, 33
+https://ds4all.ics.uci.edu, 10
+https://duttgroup.ics.uci.edu, 131
+https://dynamo.ics.uci.edu, 32
+https://e2.ics.uci.edu, 3
+https://edgelab.ics.uci.edu, 7
+https://emj.ics.uci.edu, 41
+https://evoke.ics.uci.edu, 5
+https://evote.ics.uci.edu, 1
+https://fellowships.ics.uci.edu, 2
+https://flamingo.ics.uci.edu, 482
+https://fr.ics.uci.edu, 11
+https://gitlab.ics.uci.edu, 3
+https://gradinfo.ics.uci.edu, 3
+https://grape.ics.uci.edu, 271
+https://graphics.ics.uci.edu, 1
+https://hack.ics.uci.edu, 1
+https://hiring.ics.uci.edu, 3
+https://hobbes.ics.uci.edu, 11
+https://hpi.ics.uci.edu, 6
+https://hub.ics.uci.edu, 5
+https://i-sensorium.ics.uci.edu, 5
+https://icde2023.ics.uci.edu, 48
+https://industryshowcase.ics.uci.edu, 25
+https://informatics.ics.uci.edu, 35
+https://intranet.ics.uci.edu, 905
+https://ipubmed.ics.uci.edu, 2
+https://isg.ics.uci.edu, 249
+https://isi-buds.ics.uci.edu, 4
+https://julia-hub.ics.uci.edu, 2
+https://keys.ics.uci.edu, 2
+https://luci.ics.uci.edu, 7
+https://mailman.ics.uci.edu, 40
+https://malek.ics.uci.edu, 1
+https://mcs.ics.uci.edu, 14
+https://mds.ics.uci.edu, 11
+https://mhcid.ics.uci.edu, 21
+https://mover.ics.uci.edu, 24
+https://mswe.ics.uci.edu, 11
+https://myip.ics.uci.edu, 1
+https://nalini.ics.uci.edu, 8
+https://netreg.ics.uci.edu, 4
+https://ngs.ics.uci.edu, 3157
+https://oai.ics.uci.edu, 8
+https://onboarding.ics.uci.edu, 1
+https://password.ics.uci.edu, 9
+https://pivots.ics.uci.edu, 2
+https://purchase.ics.uci.edu, 3
+https://riscit.ics.uci.edu, 3
+https://sana.ics.uci.edu, 7
+https://scale.ics.uci.edu, 7
+https://seal.ics.uci.edu, 88
+https://sherlock.ics.uci.edu, 8
+https://signage.ics.uci.edu, 3
+https://signin.ics.uci.edu, 3
+https://sparcfire.ics.uci.edu, 6
+https://staging-hub.ics.uci.edu, 2
+https://stairs.ics.uci.edu, 3
+https://stat.ics.uci.edu, 15
+https://studentreview.ics.uci.edu, 2
+https://summeracademy.ics.uci.edu, 14
+https://support.ics.uci.edu, 7
+https://swiki.ics.uci.edu, 16
+https://tad.ics.uci.edu, 2
+https://tastier.ics.uci.edu, 2
+https://tutoring.ics.uci.edu, 5
+https://unite.ics.uci.edu, 10
+https://vision.ics.uci.edu, 426
+https://wics.ics.uci.edu, 1205
+https://wiki.ics.uci.edu, 1396
+https://www-db.ics.uci.edu, 23
+https://www.ics.uci.edu, 1125
+https://www.informatics.ics.uci.edu, 2
+https://xtune.ics.uci.edu, 7
+
+5. Counting method and coverage
+Pages are accepted, nonempty HTML responses with readable alphabetic text.
+URL identity is the requested URL with the fragment removed.
+HTTP/HTTPS, trailing-slash variants and distinct redirect aliases remain separate.
+Content similarity does not merge or remove distinct accepted page URLs.
+Words are whole ASCII alphabetic tokens, allowing internal apostrophes;
+curly apostrophes are normalized. Mixed codes such as CS171 and 262P are excluded.
+Longest-page counts include stop words; top-50 frequencies exclude stopwords.txt.
+Calendar navigation, wiki UI/history variants and raw source files are filtered before fetching.
+Empty, binary, non-HTML, recognized error/login and large low-text responses are excluded.
+See FRESH_CRAWL_GUIDE.md for limits and rejected_responses for recorded rejection reasons.
+Accepted HTML URLs by domain family:
+ics.uci.edu, 29872
+cs.uci.edu, 13
+informatics.uci.edu, 19
+stat.uci.edu, 10
+
+This report describes this run only. Frontier completion is not proof
+that every reachable page was discovered. Include final_crawl_status.txt
+and discuss traps, failures and any early stopping in your submission.

@@ -1,3 +1,9 @@
+CORRECTED FRESH-RUN UPDATE
+-------------------------
+Read FRESH_CRAWL_GUIDE.md first. It explains safe installation and separate run
+directories. Do not reset an existing crawl or mix its statistics with a new run.
+The original starter instructions follow for reference.
+
 ABOUT
 -------------------------
 This is the base implementation of a full crawler that uses a spacetime

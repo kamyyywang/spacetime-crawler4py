@@ -1,0 +1,392 @@
+Snapshot: 2026-10-30T17:51:58-07:00
+Discovered URLs: 32908
+Completed frontier entries: 32908
+Unavailable frontier entries: 461
+Exhausted failure budgets (scope, target, attempts, last error):
+host | archimedes.ics.uci.edu | 4 | Origin download failure for http://archimedes.ics.uci.edu/robots.txt: Download Exception HTTPConnectionPool(host='archimedes.ics.uci.edu', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x750442fd6570>: Failed to establish a new connection: [Errno 111] Connection refused')).
+host | asterixdb.ics.uci.edu | 4 | Origin DNS failure for https://asterixdb.ics.uci.edu/robots.txt
+host | auge.ics.uci.edu | 4 | Temporary failure (status 601) for http://auge.ics.uci.edu/robots.txt
+host | awareness.ics.uci.edu | 4 | Temporary failure (status 601) for http://awareness.ics.uci.edu/robots.txt
+host | bit.ics.uci.edu | 4 | Origin download failure for https://bit.ics.uci.edu/robots.txt: Download Exception HTTPSConnectionPool(host='bit.ics.uci.edu', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x75045c496ea0>: Failed to establish a new connection: [Errno 111] Connection refused')).
+host | caesar.ics.uci.edu | 4 | Origin DNS failure for http://caesar.ics.uci.edu/robots.txt
+host | cbcl.ics.uci.edu | 4 | Origin DNS failure for https://cbcl.ics.uci.edu/robots.txt
+host | cgvw.ics.uci.edu | 4 | Origin DNS failure for http://cgvw.ics.uci.edu/robots.txt
+host | checkmate.ics.uci.edu | 4 | Origin DNS failure for http://checkmate.ics.uci.edu/robots.txt
+host | cherry.ics.uci.edu | 4 | Origin DNS failure for http://cherry.ics.uci.edu/robots.txt
+host | chime.ics.uci.edu | 4 | Temporary failure (status 601) for http://chime.ics.uci.edu/robots.txt
+host | circinus-14.ics.uci.edu | 4 | Temporary failure (status 601) for http://circinus-14.ics.uci.edu/robots.txt
+host | cocoa-krispies.ics.uci.edu | 4 | Origin DNS failure for http://cocoa-krispies.ics.uci.edu/robots.txt
+host | coronavirustwittermap.ics.uci.edu | 4 | Origin DNS failure for https://coronavirustwittermap.ics.uci.edu/robots.txt
+host | curly.lom.ics.uci.edu | 4 | Origin download failure for https://curly.lom.ics.uci.edu/robots.txt: Download Exception HTTPSConnectionPool(host='curly.lom.ics.uci.edu', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x750442cd0500>: Failed to establish a new connection: [Errno 101] Network is unreachable')).
+host | dataguard.ics.uci.edu | 4 | Origin DNS failure for http://DataGuard.ics.uci.edu/robots.txt
+host | datalab.ics.uci.edu | 4 | Origin DNS failure for http://datalab.ics.uci.edu/robots.txt
+host | dataprotector.ics.uci.edu | 4 | Origin DNS failure for http://DataProtector.ics.uci.edu/robots.txt
+host | dblp.ics.uci.edu | 4 | Temporary failure (status 601) for http://dblp.ics.uci.edu/robots.txt
+host | denali-submit.ics.uci.edu | 4 | Blocked/HTML robots response at https://denali-submit.ics.uci.edu/robots.txt
+host | drzaius.ics.uci.edu | 4 | Origin DNS failure for http://drzaius.ics.uci.edu/robots.txt
+host | duke.ics.uci.edu | 4 | Temporary failure (status 601) for http://duke.ics.uci.edu/robots.txt
+host | elms.ics.uci.edu | 4 | Blocked/HTML robots response at https://elms.ics.uci.edu/robots.txt
+host | emj-pc.ics.uci.edu | 4 | Origin DNS failure for http://emj-pc.ics.uci.edu/robots.txt
+host | esl.ics.uci.edu | 4 | Origin DNS failure for http://esl.ics.uci.edu/robots.txt
+host | gbolcer.ics.uci.edu | 4 | Origin DNS failure for http://gbolcer.ics.uci.edu/robots.txt
+host | graphmod.ics.uci.edu | 4 | Origin DNS failure for http://graphmod.ics.uci.edu/robots.txt
+host | hana.ics.uci.edu | 4 | Origin DNS failure for http://hana.ics.uci.edu/robots.txt
+host | helpdesk.ics.uci.edu | 4 | Blocked/HTML robots response at http://helpdesk.ics.uci.edu/robots.txt
+host | jgarcia.ics.uci.edu | 4 | Blocked/HTML robots response at https://jgarcia.ics.uci.edu/robots.txt
+host | jujube.ics.uci.edu | 4 | Temporary failure (status 601) for http://jujube.ics.uci.edu/robots.txt
+host | kgcs.ics.uci.edu | 4 | Temporary failure (status 601) for http://kgcs.ics.uci.edu/robots.txt
+host | kpassword.ics.uci.edu | 4 | Origin DNS failure for https://kpassword.ics.uci.edu/robots.txt
+host | larry.lom.ics.uci.edu | 4 | Origin download failure for https://larry.lom.ics.uci.edu/robots.txt: Download Exception HTTPSConnectionPool(host='larry.lom.ics.uci.edu', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7504421c1460>: Failed to establish a new connection: [Errno 101] Network is unreachable')).
+host | lolth.ics.uci.edu | 4 | Origin DNS failure for http://lolth.ics.uci.edu/robots.txt
+host | mapgrid.ics.uci.edu | 4 | Origin DNS failure for http://mapgrid.ics.uci.edu/robots.txt
+host | metaviz.ics.uci.edu | 4 | Origin DNS failure for http://metaviz.ics.uci.edu/robots.txt
+host | moe.lom.ics.uci.edu | 4 | Origin download failure for https://moe.lom.ics.uci.edu/robots.txt: Download Exception HTTPSConnectionPool(host='moe.lom.ics.uci.edu', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x75045c5c6ba0>: Failed to establish a new connection: [Errno 101] Network is unreachable')).
+host | mt-live.ics.uci.edu | 4 | Origin DNS failure for https://mt-live.ics.uci.edu/robots.txt
+host | psearch.ics.uci.edu | 4 | Origin DNS failure for https://psearch.ics.uci.edu/robots.txt
+host | rambo.ics.uci.edu | 4 | Origin DNS failure for http://rambo.ics.uci.edu/robots.txt
+host | rstudio-hub.ics.uci.edu | 4 | Origin DNS failure for https://rstudio-hub.ics.uci.edu/robots.txt
+host | rt5.ics.uci.edu | 4 | Blocked/HTML robots response at https://rt5.ics.uci.edu/robots.txt
+host | san-tainer-1.lom.ics.uci.edu | 4 | Origin DNS failure for http://san-tainer-1.lom.ics.uci.edu/robots.txt
+host | satware.ics.uci.edu | 4 | Origin DNS failure for http://satware.ics.uci.edu/robots.txt
+host | seraja.ics.uci.edu | 4 | Temporary failure (status 601) for http://seraja.ics.uci.edu/robots.txt
+host | sli.ics.uci.edu | 4 | Temporary failure (status 601) for http://sli.ics.uci.edu/robots.txt
+host | speedtest.ics.uci.edu | 4 | Blocked/HTML robots response at https://speedtest.ics.uci.edu/robots.txt
+host | sprout.ics.uci.edu | 4 | Origin download failure for http://sprout.ics.uci.edu/robots.txt: Download Exception HTTPConnectionPool(host='sprout.ics.uci.edu', port=80): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e7a9c533e90>: Failed to establish a new connection: [Errno 111] Connection refused')).
+host | students.ics.uci.edu | 4 | Origin DNS failure for https://students.ics.uci.edu/robots.txt
+host | tippers.ics.uci.edu | 4 | Origin download failure for https://tippers.ics.uci.edu/robots.txt: Download Exception HTTPSConnectionPool(host='tippers.ics.uci.edu', port=443): Max retries exceeded with url: /robots.txt (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7e7a86a32180>: Failed to establish a new connection: [Errno 111] Connection refused')).
+host | tippersweb.ics.uci.edu | 4 | Temporary failure (status 601) for https://tippersweb.ics.uci.edu/robots.txt
+host | transformativeplay.ics.uci.edu | 4 | Origin DNS failure for https://transformativeplay.ics.uci.edu/robots.txt
+host | tron.lom.ics.uci.edu | 4 | Origin DNS failure for https://tron.lom.ics.uci.edu/robots.txt
+host | tutors.ics.uci.edu | 4 | Origin DNS failure for http://tutors.ics.uci.edu/robots.txt
+host | www.cert.ics.uci.edu | 4 | Origin DNS failure for http://www.cert.ics.uci.edu/robots.txt
+host | www.checkmate.ics.uci.edu | 4 | Origin DNS failure for http://www.checkmate.ics.uci.edu/robots.txt
+host | www.graphics.ics.uci.edu | 4 | Origin DNS failure for http://www.graphics.ics.uci.edu/robots.txt
+host | www.isg.ics.uci.edu | 4 | Origin DNS failure for http://www.isg.ics.uci.edu/robots.txt
+url | http://asterix.ics.uci.edu/fuzzyjoin-mapreduce/ | 4 | Origin DNS failure for http://asterix.ics.uci.edu/fuzzyjoin-mapreduce/
+url | http://flamingo.ics.uci.edu/localsearch/fuzzysearch/ | 4 | Temporary failure (status 601) for http://flamingo.ics.uci.edu/localsearch/fuzzysearch/
+url | http://ics.uci.edu/~dorendor | 4 | Temporary failure (status 500) for http://ics.uci.edu/~dorendor
+url | http://ics.uci.edu/~ramang/ | 4 | Temporary failure (status 500) for http://ics.uci.edu/~ramang/
+url | http://ics.uci.edu/~yubok/ | 4 | Temporary failure (status 500) for http://ics.uci.edu/~yubok/
+url | http://www.ics.uci.edu/~abaquero/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~abaquero/
+url | http://www.ics.uci.edu/~abehm | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~abehm
+url | http://www.ics.uci.edu/~abehm/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~abehm/
+url | http://www.ics.uci.edu/~ackerman | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ackerman
+url | http://www.ics.uci.edu/~acmexpo | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~acmexpo
+url | http://www.ics.uci.edu/~ade | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ade
+url | http://www.ics.uci.edu/~agelfand/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~agelfand/
+url | http://www.ics.uci.edu/~agelfand/largeFam3.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~agelfand/largeFam3.html
+url | http://www.ics.uci.edu/~aghigi | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~aghigi
+url | http://www.ics.uci.edu/~ahalambi | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ahalambi
+url | http://www.ics.uci.edu/~ahmadia/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ahmadia/
+url | http://www.ics.uci.edu/~ahovland | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ahovland
+url | http://www.ics.uci.edu/~aileen | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~aileen
+url | http://www.ics.uci.edu/~ajfrank/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ajfrank/
+url | http://www.ics.uci.edu/~akhare | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~akhare
+url | http://www.ics.uci.edu/~akhavans/mySite/Welcome.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~akhavans/mySite/Welcome.html
+url | http://www.ics.uci.edu/~akoratti/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~akoratti/
+url | http://www.ics.uci.edu/~alirezs1 | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~alirezs1
+url | http://www.ics.uci.edu/~alu | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~alu
+url | http://www.ics.uci.edu/~aviral | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~aviral
+url | http://www.ics.uci.edu/~aviral/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~aviral/
+url | http://www.ics.uci.edu/~aviral/papers/EnergyrISA04 | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~aviral/papers/EnergyrISA04
+url | http://www.ics.uci.edu/~awinblad/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~awinblad/
+url | http://www.ics.uci.edu/~banerjee | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~banerjee
+url | http://www.ics.uci.edu/~basu | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~basu
+url | http://www.ics.uci.edu/~bkahf | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~bkahf
+url | http://www.ics.uci.edu/~bphung | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~bphung
+url | http://www.ics.uci.edu/~brunk | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~brunk
+url | http://www.ics.uci.edu/~bsajadi | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~bsajadi
+url | http://www.ics.uci.edu/~bsajadi/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~bsajadi/
+url | http://www.ics.uci.edu/~bsemaan/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~bsemaan/
+url | http://www.ics.uci.edu/~bxing/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~bxing/
+url | http://www.ics.uci.edu/~byao/ics125/ics125.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~byao/ics125/ics125.html
+url | http://www.ics.uci.edu/~chair/research/clustering.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~chair/research/clustering.html
+url | http://www.ics.uci.edu/~chair/research/novell.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~chair/research/novell.html
+url | http://www.ics.uci.edu/~chaom | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~chaom
+url | http://www.ics.uci.edu/~cjensen/teaching/139/s_05.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~cjensen/teaching/139/s_05.html
+url | http://www.ics.uci.edu/~clou | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~clou
+url | http://www.ics.uci.edu/~cluer/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~cluer/
+url | http://www.ics.uci.edu/~cmerz | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~cmerz
+url | http://www.ics.uci.edu/~compaq-1/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~compaq-1/
+url | http://www.ics.uci.edu/~cristofj/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~cristofj/
+url | http://www.ics.uci.edu/~cs230/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~cs230/
+url | http://www.ics.uci.edu/~cs237 | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~cs237
+url | http://www.ics.uci.edu/~cvondric | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~cvondric
+url | http://www.ics.uci.edu/~dbillsus | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~dbillsus
+url | http://www.ics.uci.edu/~dchudova/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~dchudova/
+url | http://www.ics.uci.edu/~dhilbert/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~dhilbert/
+url | http://www.ics.uci.edu/~dinitto | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~dinitto
+url | http://www.ics.uci.edu/~dkhuong | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~dkhuong
+url | http://www.ics.uci.edu/~dmassagu | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~dmassagu
+url | http://www.ics.uci.edu/~dmassagu/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~dmassagu/
+url | http://www.ics.uci.edu/~douglass | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~douglass
+url | http://www.ics.uci.edu/~dptran | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~dptran
+url | http://www.ics.uci.edu/~dramanan/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~dramanan/
+url | http://www.ics.uci.edu/~dsr | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~dsr
+url | http://www.ics.uci.edu/~dsr/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~dsr/
+url | http://www.ics.uci.edu/~duyenv | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~duyenv
+url | http://www.ics.uci.edu/~eamonn | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~eamonn
+url | http://www.ics.uci.edu/~ebaumer/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ebaumer/
+url | http://www.ics.uci.edu/~echun | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~echun
+url | http://www.ics.uci.edu/~ehenniga/ics22/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ehenniga/ics22/
+url | http://www.ics.uci.edu/~enalisni/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~enalisni/
+url | http://www.ics.uci.edu/~fmusisi/index.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~fmusisi/index.html
+url | http://www.ics.uci.edu/~gamboni | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~gamboni
+url | http://www.ics.uci.edu/~gd2002/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~gd2002/
+url | http://www.ics.uci.edu/~gghiasi/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~gghiasi/
+url | http://www.ics.uci.edu/~guix/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~guix/
+url | http://www.ics.uci.edu/~haikn | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~haikn
+url | http://www.ics.uci.edu/~hamidb/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~hamidb/
+url | http://www.ics.uci.edu/~hasuncio | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~hasuncio
+url | http://www.ics.uci.edu/~hhamid | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~hhamid
+url | http://www.ics.uci.edu/~hktruong | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~hktruong
+url | http://www.ics.uci.edu/~hnguyen1 | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~hnguyen1
+url | http://www.ics.uci.edu/~hnnguyen | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~hnnguyen
+url | http://www.ics.uci.edu/~hoh | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~hoh
+url | http://www.ics.uci.edu/~hshirani/webobjects/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~hshirani/webobjects/
+url | http://www.ics.uci.edu/~hugoy/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~hugoy/
+url | http://www.ics.uci.edu/~huyentrt | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~huyentrt
+url | http://www.ics.uci.edu/~hxvu/index.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~hxvu/index.html
+url | http://www.ics.uci.edu/~icetindi/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~icetindi/
+url | http://www.ics.uci.edu/~ics214 | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ics214
+url | http://www.ics.uci.edu/~ics214/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ics214/
+url | http://www.ics.uci.edu/~ics218 | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ics218
+url | http://www.ics.uci.edu/~impp-1/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~impp-1/
+url | http://www.ics.uci.edu/~impp-2/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~impp-2/
+url | http://www.ics.uci.edu/~iporteou/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~iporteou/
+url | http://www.ics.uci.edu/~irus2 | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~irus2
+url | http://www.ics.uci.edu/~isse | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~isse
+url | http://www.ics.uci.edu/~ivan/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ivan/
+url | http://www.ics.uci.edu/~iypark/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~iypark/
+url | http://www.ics.uci.edu/~jaya/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jaya/
+url | http://www.ics.uci.edu/~jfeise/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jfeise/
+url | http://www.ics.uci.edu/~jhang | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jhang
+url | http://www.ics.uci.edu/~jianfenj/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jianfenj/
+url | http://www.ics.uci.edu/~jnnorton/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jnnorton/
+url | http://www.ics.uci.edu/~johnsong/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~johnsong/
+url | http://www.ics.uci.edu/~johnsong/thesis/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~johnsong/thesis/
+url | http://www.ics.uci.edu/~jongeunl | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jongeunl
+url | http://www.ics.uci.edu/~jossher/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jossher/
+url | http://www.ics.uci.edu/~jridenou/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jridenou/
+url | http://www.ics.uci.edu/~jrobbins/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jrobbins/
+url | http://www.ics.uci.edu/~jrobbins/ics121f03/index.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jrobbins/ics121f03/index.html
+url | http://www.ics.uci.edu/~jsingh | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jsingh
+url | http://www.ics.uci.edu/~jstark | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jstark
+url | http://www.ics.uci.edu/~jsupanci/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jsupanci/
+url | http://www.ics.uci.edu/~jwei/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jwei/
+url | http://www.ics.uci.edu/~jwickram | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jwickram
+url | http://www.ics.uci.edu/~jwickram/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jwickram/
+url | http://www.ics.uci.edu/~jwickram/research/p3/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jwickram/research/p3/
+url | http://www.ics.uci.edu/~jwross/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jwross/
+url | http://www.ics.uci.edu/~jwseo | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~jwseo
+url | http://www.ics.uci.edu/~khanhv | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~khanhv
+url | http://www.ics.uci.edu/~khoin | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~khoin
+url | http://www.ics.uci.edu/~kimtl | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~kimtl
+url | http://www.ics.uci.edu/~kkwak | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~kkwak
+url | http://www.ics.uci.edu/~kroher/Kristin_Roher/Home.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~kroher/Kristin_Roher/Home.html
+url | http://www.ics.uci.edu/~kstrasse/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~kstrasse/
+url | http://www.ics.uci.edu/~ktanimur | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ktanimur
+url | http://www.ics.uci.edu/~kyungbak/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~kyungbak/
+url | http://www.ics.uci.edu/~lboyles/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~lboyles/
+url | http://www.ics.uci.edu/~letm | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~letm
+url | http://www.ics.uci.edu/~locvn | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~locvn
+url | http://www.ics.uci.edu/~mahesh | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mahesh
+url | http://www.ics.uci.edu/~mamadoud/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mamadoud/
+url | http://www.ics.uci.edu/~mandala | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mandala
+url | http://www.ics.uci.edu/~maximilh | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~maximilh
+url | http://www.ics.uci.edu/~mayur | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mayur
+url | http://www.ics.uci.edu/~mayur/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mayur/
+url | http://www.ics.uci.edu/~mbergman/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mbergman/
+url | http://www.ics.uci.edu/~mbergman/ICS12%205/ics125_wfui.htm%20 | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mbergman/ICS12%205/ics125_wfui.htm%20
+url | http://www.ics.uci.edu/~mbergman/ICS125/ICS125_WFUI.htm | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mbergman/ICS125/ICS125_WFUI.htm
+url | http://www.ics.uci.edu/~mbergman/ICS125/chat.htm | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mbergman/ICS125/chat.htm
+url | http://www.ics.uci.edu/~mchan | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mchan
+url | http://www.ics.uci.edu/~mchan5/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mchan5/
+url | http://www.ics.uci.edu/~mchan5/Lab1Partners.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mchan5/Lab1Partners.html
+url | http://www.ics.uci.edu/~mikelin | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mikelin
+url | http://www.ics.uci.edu/~minhaenl/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~minhaenl/
+url | http://www.ics.uci.edu/~mkantor/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mkantor/
+url | http://www.ics.uci.edu/~mkhademi/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mkhademi/
+url | http://www.ics.uci.edu/~mkwak | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mkwak
+url | http://www.ics.uci.edu/~mlyau/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mlyau/
+url | http://www.ics.uci.edu/~mopy | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mopy
+url | http://www.ics.uci.edu/~mopy/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mopy/
+url | http://www.ics.uci.edu/~mraymund | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mraymund
+url | http://www.ics.uci.edu/~msadri | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~msadri
+url | http://www.ics.uci.edu/~mshmueli/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mshmueli/
+url | http://www.ics.uci.edu/~muccini/ics123/main.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~muccini/ics123/main.html
+url | http://www.ics.uci.edu/~mune | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~mune
+url | http://www.ics.uci.edu/~nageshvh/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~nageshvh/
+url | http://www.ics.uci.edu/~namsel/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~namsel/
+url | http://www.ics.uci.edu/~nbansal/reconfig.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~nbansal/reconfig.html
+url | http://www.ics.uci.edu/~nflerova/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~nflerova/
+url | http://www.ics.uci.edu/~nmamano/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~nmamano/
+url | http://www.ics.uci.edu/~nmdo/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~nmdo/
+url | http://www.ics.uci.edu/~oaiyelok/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~oaiyelok/
+url | http://www.ics.uci.edu/~partha | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~partha
+url | http://www.ics.uci.edu/~partha/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~partha/
+url | http://www.ics.uci.edu/~peiyunh/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~peiyunh/
+url | http://www.ics.uci.edu/~pgrun | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~pgrun
+url | http://www.ics.uci.edu/~pjsadows/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~pjsadows/
+url | http://www.ics.uci.edu/~pkammer | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~pkammer
+url | http://www.ics.uci.edu/~pkammer/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~pkammer/
+url | http://www.ics.uci.edu/~plong/index125.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~plong/index125.html
+url | http://www.ics.uci.edu/~pmishra | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~pmishra
+url | http://www.ics.uci.edu/~pmishra/Publications/vlsi2004.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~pmishra/Publications/vlsi2004.html
+url | http://www.ics.uci.edu/~pnguyen1 | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~pnguyen1
+url | http://www.ics.uci.edu/~posties1/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~posties1/
+url | http://www.ics.uci.edu/~posties2/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~posties2/
+url | http://www.ics.uci.edu/~ppszona/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ppszona/
+url | http://www.ics.uci.edu/~pr-react/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~pr-react/
+url | http://www.ics.uci.edu/~praveenv | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~praveenv
+url | http://www.ics.uci.edu/~psyo-1/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~psyo-1/
+url | http://www.ics.uci.edu/~psyo-2/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~psyo-2/
+url | http://www.ics.uci.edu/~psyo-3/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~psyo-3/
+url | http://www.ics.uci.edu/~qhan | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~qhan
+url | http://www.ics.uci.edu/~qhan/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~qhan/
+url | http://www.ics.uci.edu/~qiangz | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~qiangz
+url | http://www.ics.uci.edu/~qliu1 | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~qliu1
+url | http://www.ics.uci.edu/~qliu1/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~qliu1/
+url | http://www.ics.uci.edu/~qliu1/nips13_workshop/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~qliu1/nips13_workshop/
+url | http://www.ics.uci.edu/~qlou/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~qlou/
+url | http://www.ics.uci.edu/~radu | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~radu
+url | http://www.ics.uci.edu/~radu/forge/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~radu/forge/
+url | http://www.ics.uci.edu/~radum/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~radum/
+url | http://www.ics.uci.edu/~radum/rees.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~radum/rees.html
+url | http://www.ics.uci.edu/~rares | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~rares
+url | http://www.ics.uci.edu/~rares/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~rares/
+url | http://www.ics.uci.edu/~rasadi/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~rasadi/
+url | http://www.ics.uci.edu/~rdiazgar/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~rdiazgar/
+url | http://www.ics.uci.edu/~rjuang/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~rjuang/
+url | http://www.ics.uci.edu/~rmorshed/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~rmorshed/
+url | http://www.ics.uci.edu/~rohit | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~rohit
+url | http://www.ics.uci.edu/~rohit/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~rohit/
+url | http://www.ics.uci.edu/~rripley/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~rripley/
+url | http://www.ics.uci.edu/~rvernica | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~rvernica
+url | http://www.ics.uci.edu/~saeed/index.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~saeed/index.html
+url | http://www.ics.uci.edu/~salsubai/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~salsubai/
+url | http://www.ics.uci.edu/~salsubai/rstartree.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~salsubai/rstartree.html
+url | http://www.ics.uci.edu/~savoiu | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~savoiu
+url | http://www.ics.uci.edu/~sbay | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~sbay
+url | http://www.ics.uci.edu/~schulenb | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~schulenb
+url | http://www.ics.uci.edu/~seguti | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~seguti
+url | http://www.ics.uci.edu/~seguti/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~seguti/
+url | http://www.ics.uci.edu/~ses/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ses/
+url | http://www.ics.uci.edu/~sforouza/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~sforouza/
+url | http://www.ics.uci.edu/~sgaffney/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~sgaffney/
+url | http://www.ics.uci.edu/~shali | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~shali
+url | http://www.ics.uci.edu/~shallman/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~shallman/
+url | http://www.ics.uci.edu/~shengyuj | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~shengyuj
+url | http://www.ics.uci.edu/~shengyuj/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~shengyuj/
+url | http://www.ics.uci.edu/~sjavanma/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~sjavanma/
+url | http://www.ics.uci.edu/~sjiang4/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~sjiang4/
+url | http://www.ics.uci.edu/~slan/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~slan/
+url | http://www.ics.uci.edu/~smoret | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~smoret
+url | http://www.ics.uci.edu/~softtest/adamakegen.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~softtest/adamakegen.html
+url | http://www.ics.uci.edu/~softtest/plumber.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~softtest/plumber.html
+url | http://www.ics.uci.edu/~softtest/prodag.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~softtest/prodag.html
+url | http://www.ics.uci.edu/~softtest/taos.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~softtest/taos.html
+url | http://www.ics.uci.edu/~srikanth | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~srikanth
+url | http://www.ics.uci.edu/~sseyedta/index.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~sseyedta/index.html
+url | http://www.ics.uci.edu/~sshukla/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~sshukla/
+url | http://www.ics.uci.edu/~sswamida/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~sswamida/
+url | http://www.ics.uci.edu/~sudeep | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~sudeep
+url | http://www.ics.uci.edu/~sumitg | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~sumitg
+url | http://www.ics.uci.edu/~surajn/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~surajn/
+url | http://www.ics.uci.edu/~taewok2/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~taewok2/
+url | http://www.ics.uci.edu/~taml | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~taml
+url | http://www.ics.uci.edu/~taow4/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~taow4/
+url | http://www.ics.uci.edu/~team125a | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~team125a
+url | http://www.ics.uci.edu/~team125b | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~team125b
+url | http://www.ics.uci.edu/~team125c | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~team125c
+url | http://www.ics.uci.edu/~team125d/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~team125d/
+url | http://www.ics.uci.edu/~team125f | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~team125f
+url | http://www.ics.uci.edu/~team125g | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~team125g
+url | http://www.ics.uci.edu/~team125i/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~team125i/
+url | http://www.ics.uci.edu/~team125j | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~team125j
+url | http://www.ics.uci.edu/~team125m/DevPro | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~team125m/DevPro
+url | http://www.ics.uci.edu/~team126a/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~team126a/
+url | http://www.ics.uci.edu/~team126b | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~team126b
+url | http://www.ics.uci.edu/~thyhn/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~thyhn/
+url | http://www.ics.uci.edu/~tle2 | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~tle2
+url | http://www.ics.uci.edu/~tnguye90/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~tnguye90/
+url | http://www.ics.uci.edu/~tnhong | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~tnhong
+url | http://www.ics.uci.edu/~tohashi/ics125homepage.htm | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~tohashi/ics125homepage.htm
+url | http://www.ics.uci.edu/~tomiyama | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~tomiyama
+url | http://www.ics.uci.edu/~tonne/52/index.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~tonne/52/index.html
+url | http://www.ics.uci.edu/~tuanv | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~tuanv
+url | http://www.ics.uci.edu/~tujohnso/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~tujohnso/
+url | http://www.ics.uci.edu/~tungmn | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~tungmn
+url | http://www.ics.uci.edu/~umukherj | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~umukherj
+url | http://www.ics.uci.edu/~umukherj/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~umukherj/
+url | http://www.ics.uci.edu/~vbalasub | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~vbalasub
+url | http://www.ics.uci.edu/~vbonsi/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~vbonsi/
+url | http://www.ics.uci.edu/~vgogate | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~vgogate
+url | http://www.ics.uci.edu/~vgogate/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~vgogate/
+url | http://www.ics.uci.edu/~vnguyen1 | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~vnguyen1
+url | http://www.ics.uci.edu/~vuongtn | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~vuongtn
+url | http://www.ics.uci.edu/~wazma | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~wazma
+url | http://www.ics.uci.edu/~wcheng1 | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~wcheng1
+url | http://www.ics.uci.edu/~welling/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~welling/
+url | http://www.ics.uci.edu/~welling/classnotes/classnotes.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~welling/classnotes/classnotes.html
+url | http://www.ics.uci.edu/~welling/teaching/ICS175winter12/ICS175winter12.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~welling/teaching/ICS175winter12/ICS175winter12.html
+url | http://www.ics.uci.edu/~wengl/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~wengl/
+url | http://www.ics.uci.edu/~wjo | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~wjo
+url | http://www.ics.uci.edu/~wogulis | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~wogulis
+url | http://www.ics.uci.edu/~wonkim/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~wonkim/
+url | http://www.ics.uci.edu/~workflo1/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~workflo1/
+url | http://www.ics.uci.edu/~workflo2/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~workflo2/
+url | http://www.ics.uci.edu/~wping/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~wping/
+url | http://www.ics.uci.edu/~wwwoffic/maps/cs1.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~wwwoffic/maps/cs1.html
+url | http://www.ics.uci.edu/~wwwoffic/maps/ics2.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~wwwoffic/maps/ics2.html
+url | http://www.ics.uci.edu/~wwwoffic/maps/ics2_1st.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~wwwoffic/maps/ics2_1st.html
+url | http://www.ics.uci.edu/~wwwoffic/maps/icsmapsdir.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~wwwoffic/maps/icsmapsdir.html
+url | http://www.ics.uci.edu/~wwwoffic/maps/icst1.html | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~wwwoffic/maps/icst1.html
+url | http://www.ics.uci.edu/~wyang/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~wyang/
+url | http://www.ics.uci.edu/~xingz/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~xingz/
+url | http://www.ics.uci.edu/~xzhu/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~xzhu/
+url | http://www.ics.uci.edu/~ychen/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~ychen/
+url | http://www.ics.uci.edu/~yez | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~yez
+url | http://www.ics.uci.edu/~yganjisa/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~yganjisa/
+url | http://www.ics.uci.edu/~yonghuaw | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~yonghuaw
+url | http://www.ics.uci.edu/~yoshino | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~yoshino
+url | http://www.ics.uci.edu/~yubok/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~yubok/
+url | http://www.ics.uci.edu/~yunh/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~yunh/
+url | http://www.ics.uci.edu/~yyang8/ | 4 | Temporary failure (status 500) for http://www.ics.uci.edu/~yyang8/
+url | https://asterix.ics.uci.edu/fuzzyjoin-mapreduce/ | 4 | Origin DNS failure for https://asterix.ics.uci.edu/fuzzyjoin-mapreduce/
+url | https://flamingo.ics.uci.edu/localsearch/fuzzysearch/ | 4 | Temporary failure (status 601) for https://flamingo.ics.uci.edu/localsearch/fuzzysearch/
+url | https://icinga.ics.uci.edu | 4 | Origin DNS failure for https://icinga.ics.uci.edu
+url | https://ics.uci.edu/~supprot | 4 | Temporary failure (status 500) for https://ics.uci.edu/~supprot
+url | https://www.ics.uci.edu/~abehm/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~abehm/
+url | https://www.ics.uci.edu/~anusheel/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~anusheel/
+url | https://www.ics.uci.edu/~bagchi/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~bagchi/
+url | https://www.ics.uci.edu/~cs237/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~cs237/
+url | https://www.ics.uci.edu/~cschallo/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~cschallo/
+url | https://www.ics.uci.edu/~ehavvaei/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~ehavvaei/
+url | https://www.ics.uci.edu/~enalisni/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~enalisni/
+url | https://www.ics.uci.edu/~jabbarvr/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~jabbarvr/
+url | https://www.ics.uci.edu/~jamesal1/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~jamesal1/
+url | https://www.ics.uci.edu/~jcarlson/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~jcarlson/
+url | https://www.ics.uci.edu/~jlam2/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~jlam2/
+url | https://www.ics.uci.edu/~josephw/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~josephw/
+url | https://www.ics.uci.edu/~jsimons/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~jsimons/
+url | https://www.ics.uci.edu/~lsinghal/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~lsinghal/
+url | https://www.ics.uci.edu/~ltrott/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~ltrott/
+url | https://www.ics.uci.edu/~mloffler/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~mloffler/
+url | https://www.ics.uci.edu/~nmamano/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~nmamano/
+url | https://www.ics.uci.edu/~nmamano/knightstour.html | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~nmamano/knightstour.html
+url | https://www.ics.uci.edu/~pablo/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~pablo/
+url | https://www.ics.uci.edu/~ppszona/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~ppszona/
+url | https://www.ics.uci.edu/~rares/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~rares/
+url | https://www.ics.uci.edu/~salsubai/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~salsubai/
+url | https://www.ics.uci.edu/~shengyuj/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~shengyuj/
+url | https://www.ics.uci.edu/~tujohnso/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~tujohnso/
+url | https://www.ics.uci.edu/~wdevanny/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~wdevanny/
+url | https://www.ics.uci.edu/~xge/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~xge/
+url | https://www.ics.uci.edu/~zhanpenc/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~zhanpenc/
+url | https://www.ics.uci.edu/~zhengsun/ | 4 | Temporary failure (status 500) for https://www.ics.uci.edu/~zhengsun/
+Pending URLs: 0
+Eligible pending URLs (includes active requests): 0
+Pending URLs waiting on URL/host delays: 0
+Largest pending hosts (count, earliest eligible in seconds, hostname):
+Recorded HTML URLs: 29914

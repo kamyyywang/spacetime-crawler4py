@@ -1,3 +1,6 @@
+# STARTER REGISTRATION DATA MODEL
+# spacetime uses this shared record to exchange crawler ID, fresh/resume state,
+# validation status and the assigned cache endpoint with the course service.
 from rtypes import pcc_set, dimension, primarykey
 
 
